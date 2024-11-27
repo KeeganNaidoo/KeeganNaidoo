@@ -3,12 +3,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Aspiring Game Developer & Designer
 ----------------------------------
+ 
+- 🌍 Location: Johannesburg, South Africa
+- ✉️ Contact: keegz.naidoo@outlook.com
 
-* 🌍  I'm based in Johannesburg, South Africa
-* ✉️  You can contact me at [keegz.naidoo@outlook.com](mailto:keegz.naidoo@outlook.com)
-* I’m an aspiring game developer who transforms ideas into immersive experiences. During my time at vega, I’ve honed my skills in crafting captivating 2D and 3D games that blend stunning visuals with engaging gameplay. My journey is driven by a love for storytelling, a knack for problem-solving, and a relentless curiosity to push the boundaries of what games can achieve.
+### 👾 About Me
+Currently in my final year of a BCIS degree specializing in Game Development & Design. With expertise in Unity, C#, 3D modeling, and animation, I bring interactive stories and immersive experiences to life.
 
-### Skills
+My passion lies in crafting visually stunning games with engaging mechanics, blending technical skill with creative vision. From designing low-poly 3D assets to programming procedural terrains and intricate gameplay systems, I thrive on solving complex problems and pushing creative boundaries.
+ 
+### 🎮 Projects:
+- Pixel art 2D mobile games
+- HD third-person exploration games
+- Procedural terrain generation systems
+### 🔥 Areas I excel in:
+- Unity and C#
+- 3D modeling and animation
+- Problem-solving and optimization
+### 🌟 My Vision
+I aspire to create games that captivate players, inspire imagination, and redefine how we interact with digital worlds. Whether working independently or collaboratively, I am dedicated to delivering high-quality, impactful projects that stand out in the industry.
+
+### 🚀 Skills
 
 
 <p align="left">
