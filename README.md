@@ -4,8 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Game Developer & Designer
 ----------------------------------
 
-* 🌍  I'm based in South Africa
+* 🌍  I'm based in Johannesburg, South Africa
 * ✉️  You can contact me at [keegz.naidoo@outlook.com](mailto:keegz.naidoo@outlook.com)
+* I’m an aspiring game developer who transforms ideas into immersive experiences. During my time at vega, I’ve honed my skills in crafting captivating 2D and 3D games that blend stunning visuals with engaging gameplay. My journey is driven by a love for storytelling, a knack for problem-solving, and a relentless curiosity to push the boundaries of what games can achieve.
 
 ### Skills
 
