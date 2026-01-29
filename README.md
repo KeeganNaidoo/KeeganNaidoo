@@ -8,20 +8,41 @@ Aspiring Game Developer & Designer
 - ✉️ Contact: keegz.naidoo@outlook.com
 
 ### 👾 About Me
-Currently in my final year of a BCIS degree specializing in Game Development & Design. With expertise in Unity, C#, 3D modeling, and animation, I bring interactive stories and immersive experiences to life.
+I’m a Game Developer & Designer in my final stage of a BCIS degree, focused on building playable, systems-driven game prototypes across Unity, Unreal Engine, and mobile platforms.
 
-My passion lies in crafting visually stunning games with engaging mechanics, blending technical skill with creative vision. From designing low-poly 3D assets to programming procedural terrains and intricate gameplay systems, I thrive on solving complex problems and pushing creative boundaries.
+My work sits at the intersection of gameplay programming, design systems, and asset creation. I’ve developed both solo and collaborative projects, ranging from FPS prototypes in Unreal Engine, to procedural systems in Unity, to Android applications using Kotlin and Firebase.
+
+I enjoy tackling complex problems, learning new engines quickly, and turning ideas into functional, testable gameplay.
  
-### 🎮 Projects:
-- Pixel art 2D mobile games
-- HD third-person exploration games
-- Procedural terrain generation systems
-### 🔥 Areas I excel in:
-- Unity and C#
-- 3D modeling and animation
-- Problem-solving and optimization
-### 🌟 My Vision
-I aspire to create games that captivate players, inspire imagination, and redefine how we interact with digital worlds. Whether working independently or collaboratively, I am dedicated to delivering high-quality, impactful projects that stand out in the industry.
+🧠 Core Skills:
+
+###Game Development
+-Unity Engine (2D & 3D)
+-Unreal Engine 5 (FPS & open-world prototyping)
+-C# gameplay programming
+-Unreal Blueprints (foundational)
+-Kotlin (Android development)
+
+Game Design
+Gameplay mechanics & systems
+Level design & world building
+Player experience (UX)
+
+Turn-based & real-time combat systems
+
+Narrative design (Distinction)
+
+Technical & Tools
+
+Procedural generation concepts
+
+Firebase databases
+
+MySQL & MongoDB (academic & practical use)
+
+3D Modeling: Blender, 3DS Max, ZBrush
+
+Pixel Art & Animation: Aseprite
 
 ### 🚀 Skills
 
