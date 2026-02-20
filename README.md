@@ -47,8 +47,8 @@ I enjoy tackling complex problems, learning new engines quickly, and turning ide
 ### 🎯 FPS Prototype (Unreal Engine)
 Solo project built from scratch focusing on **core FPS mechanics** and **player control**.
 
-### 🌍 Goldmine in Space (Unreal Engine 5)
-Open-world planet exploration prototype with emphasis on **traversal** and **environment design**.
+### 🏎️ Elite Racers (Unity)
+Racing game prototype developed in **Unity**, focusing on **gameplay systems**, **player control**, and integration of **2D and 3D assets**.
 
 ### 🛡️ Tower Defence Prototype (Unity)
 Gameplay prototype featuring **procedural generation systems** and **gameplay balancing**.
