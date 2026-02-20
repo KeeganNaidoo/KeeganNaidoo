@@ -27,11 +27,11 @@ Kotlin (Android development)
 
 ### Game Design
 
-Gameplay mechanics & systems
-Level design & world building
-Player experience (UX)
-Turn-based & real-time combat systems
-Narrative design (Distinction)
+-Gameplay mechanics & systems
+-Level design & world building
+-Player experience (UX)
+-Turn-based & real-time combat systems
+-Narrative design (Distinction)
 
 ### Technical & Tools
 
