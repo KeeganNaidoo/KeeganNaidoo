@@ -20,26 +20,26 @@ I enjoy tackling complex problems, learning new engines quickly, and turning ide
 
 Unity Engine (2D & 3D).
 
-Unreal Engine 5 (FPS & open-world prototyping)
-C# gameplay programming
-Unreal Blueprints (foundational)
-Kotlin (Android development)
+Unreal Engine 5 (FPS & open-world prototyping).
+C# gameplay programming.
+Unreal Blueprints (foundational).
+Kotlin (Android development).
 
 ### Game Design
 
--Gameplay mechanics & systems
--Level design & world building
--Player experience (UX)
--Turn-based & real-time combat systems
--Narrative design (Distinction)
+-Gameplay mechanics & systems.
+-Level design & world building.
+-Player experience (UX).
+-Turn-based & real-time combat systems.
+-Narrative design (Distinction).
 
 ### Technical & Tools
 
-Procedural generation concepts
-Firebase databases
-MySQL & MongoDB (academic & practical use)
-3D Modeling: Blender, 3DS Max, ZBrush
-Pixel Art & Animation: Aseprite
+Procedural generation concepts.
+Firebase databases.
+MySQL & MongoDB (academic & practical use).
+3D Modeling: Blender, 3DS Max, ZBrush.
+Pixel Art & Animation: Aseprite.
 
 🚀 Highlight Projects
 
