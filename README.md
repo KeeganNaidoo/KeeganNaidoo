@@ -1,62 +1,65 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keegan Naidoo
 =====================================================================================================================================
 
-Game Developer & Designer
+### Game Developer & Designer | Unity • Unreal Engine • Gameplay Systems
 ----------------------------------
  
 - 🌍 Location: Johannesburg, South Africa
 - ✉️ Contact: keegz.naidoo@outlook.com
 
-### 👾 About Me
-I’m a Game Developer & Designer in my final stage of a BCIS degree, focused on building playable, systems-driven game prototypes across Unity, Unreal Engine, and mobile platforms.
+## 👾 About Me
 
-My work sits at the intersection of gameplay programming, design systems, and asset creation. I’ve developed both solo and collaborative projects, ranging from FPS prototypes in Unreal Engine, to procedural systems in Unity, to Android applications using Kotlin and Firebase.
+I’m a **Game Developer & Designer** in the final stage of a **BCIS degree**, focused on building **playable, systems-driven game prototypes** across **Unity, Unreal Engine, and mobile platforms**.
 
-I enjoy tackling complex problems, learning new engines quickly, and turning ideas into functional, testable gameplay.
- 
-🧠 Core Skills
+My work sits at the intersection of **gameplay programming, design systems, and asset creation**. I’ve developed both **solo and collaborative projects**, ranging from **FPS prototypes in Unreal Engine**, to **procedural systems in Unity**, to **Android applications using Kotlin and Firebase**.
+
+I enjoy tackling complex problems, learning new engines quickly, and turning ideas into **functional, testable gameplay**.
+
+---
+
+## 🧠 Core Skills
 
 ### Game Development
-
-Unity Engine (2D & 3D).
-
-Unreal Engine 5 (FPS & open-world prototyping).
-C# gameplay programming.
-Unreal Blueprints (foundational).
-Kotlin (Android development).
+- Unity Engine (2D & 3D)  
+- Unreal Engine 5 (FPS & open-world prototyping)  
+- C# gameplay programming  
+- Unreal Blueprints (foundational)  
+- Kotlin (Android development)  
 
 ### Game Design
-
--Gameplay mechanics & systems.
--Level design & world building.
--Player experience (UX).
--Turn-based & real-time combat systems.
--Narrative design (Distinction).
+- Gameplay mechanics & systems  
+- Level design & world building  
+- Player experience (UX)  
+- Turn-based & real-time combat systems  
+- Narrative design (Distinction)  
 
 ### Technical & Tools
+- Procedural generation concepts  
+- Firebase databases  
+- MySQL & MongoDB (academic & practical use)  
+- 3D Modeling: Blender, 3DS Max, ZBrush  
+- Pixel art & animation: Aseprite  
 
-Procedural generation concepts.
-Firebase databases.
-MySQL & MongoDB (academic & practical use).
-3D Modeling: Blender, 3DS Max, ZBrush.
-Pixel Art & Animation: Aseprite.
+---
 
-🚀 Highlight Projects
+## 🚀 Highlight Projects
 
-FPS Prototype (Unreal Engine)
-Solo project built from scratch focusing on core FPS mechanics and player control.
+### 🎯 FPS Prototype (Unreal Engine)
+Solo project built from scratch focusing on **core FPS mechanics** and **player control**.
 
-Goldmine in Space (Unreal Engine 5)
-Open-world planet exploration prototype with emphasis on traversal and environment design.
+### 🌍 Goldmine in Space (Unreal Engine 5)
+Open-world planet exploration prototype with emphasis on **traversal** and **environment design**.
 
-Tower Defence Prototype (Unity)
-Procedural generation systems and gameplay balancing.
+### 🛡️ Tower Defence Prototype (Unity)
+Gameplay prototype featuring **procedural generation systems** and **gameplay balancing**.
 
-2D Pixel Knight (Unity)
-Turn-based combat prototype using custom pixel art and animations.
+### ⚔️ 2D Pixel Knight (Unity)
+Turn-based combat prototype using **custom pixel art** and **sprite animations**.
 
-Budget Train (Android App)
-Budget tracking application built with Kotlin and Firebase.
+### 📱 Budget Train (Android App)
+Budget tracking application built with **Kotlin** and **Firebase**.
+
+---
 
 Playable builds available on itch.io.
 
